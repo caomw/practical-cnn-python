@@ -15,7 +15,7 @@ Package contents
 The practical consists of four exercises, organized in the following
 files:
 
-* [exercise1.ipynb](exercise1.ipynb) -- Part 1: CNN fundamentals
+* [exercise1.ipynb](http://nbviewer.ipython.org/github/mmmikael/practical-cnn-python/blob/master/exercise1.ipynb) -- Part 1: CNN fundamentals
 
 *other exercises comming soon...*
 
